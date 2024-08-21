@@ -20,5 +20,5 @@ Welcome to the Variety Food Truck Ordering System! This Python script allows use
    Execute the script in a Python environment.
 
    ```bash
-   python menu_ordering_system.py
+   python menu.py
 
