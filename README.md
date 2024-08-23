@@ -22,3 +22,12 @@ Welcome to the Variety Food Truck Ordering System! This Python script allows use
    ```bash
    python menu.py
 
+## New Features
+
+## Code Source and Credits
+
+This repository includes code that was generated with the assistance of ChatGPT, a language model developed by OpenAI. For more information about ChatGPT, visit [OpenAI's website](https://www.openai.com/chatgpt).
+
+
+
+
